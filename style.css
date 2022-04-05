@@ -1,0 +1,28 @@
+body{
+	padding: 2%;
+	text-align: center;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+img{
+	width: 350px;
+	height: 350px;
+	border-radius: 5%;
+	margin: 10px;
+}
+
+div{
+	padding: 1%;
+}
+h1{
+	border: 3px solid black;
+	display: inline;
+	padding: 5px;
+}
+.image1{
+width: 200px;
+}
+
+.image2{
+width:200;
+}
